@@ -15,6 +15,8 @@ usually written at just before the closing tag of html body.
 9. JavaScript can written as __external__ as well as __internal__.
 
 # JavaScript Keywords
+  --Keywords-- or --reserved words-- are words that have a special meaning to JavaScript and act as **programming instruction**
+  
   | abstract | delete | goto | new | this |
   | --- | --- | --- | --- | --- |
   | **as** | **do** | **if** | **null** | **throw** |
@@ -30,3 +32,11 @@ usually written at just before the closing tag of html body.
   | **debugger** | **for** | **native** | **synchronized** | **while** |
   | **default** | **function** |  |  | **with** |
   
+<hr>
+  
+  ## Alert
+  
+  ```
+  alert("Hello World!")
+  ```
+  alert is a keyword that displays a message in a box on the browser window.
