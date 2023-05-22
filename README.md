@@ -2,7 +2,7 @@
 
 1. JavaScript is one of the most advanced and powerful programming language.
 2. JavaScript is a __High-Level__ and __Interpreter__ language.
-3. Since It is interpreter language, is execute code line by line. Therefore, in case of any error to execute of any line of code, it won't go further to execute the rest of the code, unless or until error is not resolved.
+3. Since It is interpreter language, it execute code line by line. Therefore, in case of any error to execute of any line of code, it won't go further to execute the rest of the code, unless or until error is not resolved.
 4. Do not confuse with the name __JavaScript.__ It doesn't have anything of __Java__ which is a seperate programming language.
 5. You do not need to download or install any software to work in JavaScript.
 6. JavaScript runs in browser. so every brower do have JavaScript engine.
@@ -13,3 +13,20 @@
 ```
 usually written at just before the closing tag of html body.
 9. JavaScript can written as __external__ as well as __internal__.
+
+# JavaScript Keywords
+  | abstract | delete | goto | new | this |
+  | --- | --- | --- | --- | --- |
+  | **as** | **do** | **if** | **null** | **throw** |
+  | **boolean** | **double** | **implements** | **package** | **throws** |
+  | **break** | **else** | **import** | **private** | **transient** |
+  | **byte** | **enum** | **in** | **protected** | **true** |
+  | **case**| **export** | **instanceof** | **public** | **try** |
+  | **catch** | **extends** | **int** | **return** | **typeof** |
+  | **char** | **false** | **interface** | **short** | **use** |
+  | **class** | **final** | **is** | **static** | **var** |
+  | **continue** | **finally** | **long** | **super** | **void** |
+  | **const** | **float** | **namespace** | **switch** | **volatile** |
+  | **debugger** | **for** | **native** | **synchronized** | **while** |
+  | **default** | **function** |  |  | **with** |
+  
