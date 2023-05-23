@@ -47,5 +47,6 @@
   ```
   alert is a keyword that displays a message in a box on the browser window.
   
-  
+  ## Variables
+  A variable is a container that stores some information in terms of data. The value of the data can change, depanding on the conditions or instructions that we have passed to the program. The information of data stored in a variable can be a string, number, alpha numberic values or any characters.
   
