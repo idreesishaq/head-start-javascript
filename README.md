@@ -11,8 +11,14 @@
 ```
 <srcipt src=main.js> </script>
 ```
-usually written at just before the closing tag of html body.
+  usually written at just before the closing tag of html body.
+
 9. JavaScript can written as __external__ as well as __internal__.
+10. An another way of writing javascript on realtime is to write the JavaScript code on the on the **console**.<br>
+  i). open favorite browser (mine chrome).<br>
+  ii) Press F12 key, or right click then click the inspect button. A side window on the browser window will be open.<br>
+  iii) Now click the **console** button on upper right, adjacent with the **Element** button. <br>
+  iv) Here you can write Javascript code. <br>
 
 # JavaScript Keywords
   --Keywords-- or --reserved words-- are words that have a special meaning to JavaScript and act as **programming instruction**
@@ -40,3 +46,6 @@ usually written at just before the closing tag of html body.
   alert("Hello World!")
   ```
   alert is a keyword that displays a message in a box on the browser window.
+  
+  
+  
