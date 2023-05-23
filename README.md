@@ -50,3 +50,5 @@
   ## Variables
   A variable is a container that stores some information in terms of data. The value of the data can change, depanding on the conditions or instructions that we have passed to the program. The information of data stored in a variable can be a string, number, alpha numberic values or any characters.
   
+  To create a variable in JavaScript we use the **var** keyword succeeded by the variable name then 'is equals to' sign (which is called declaration), then variable's values in double quotatoin marks and then semicolon.
+  
