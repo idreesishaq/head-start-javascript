@@ -50,5 +50,34 @@
   ## Variables
   A variable is a container that stores some information in terms of data. The value of the data can change, depanding on the conditions or instructions that we have passed to the program. The information of data stored in a variable can be a string, number, alpha numberic values or any characters.
   
-  To create a variable in JavaScript we use the **var** keyword succeeded by the variable name then 'is equals to' sign (which is called declaration), then variable's values in double quotatoin marks and then semicolon.
+  To create a variable in JavaScript we use the **var** keyword preceded by the variable name then 'is equals to' sign (which is called declaration), then variable's values in double quotatoin marks and then semicolon. 
+  ```
+  var name = "idrees";
+  ```
+  We can also store any number value in a variable like this.
+  ```
+  var age = 27;
+  ```
+  Yes you have spotted right that here a number without quotation marks (""), whereas a string (any number characters) is in quotation mark.<br>
+  but what happen if we write number is quotation mark. e.g;
+  
+  ```
+  var age = "27";
+  ```
+  Well we can write, and we do in some cases, where we have to display numbers as string
+  ```
+  var myAddress = "Street 42 Block 5 Down town Karachi 75300";
+  ```
+  They that type of datatype cannot do mathematical operations. So if we want arithmatic operations with number we creat variable as number. e.g
+  ```
+  var num1 = 5;
+  var num2 = 13;
+  var total = num1 + num2;
+  ```
+  Here the variable **total** will store the numeric value **18**. Whereas in the following example the variable will hold the string value **"513"**. Because it simply concatenates the string values rather than adding them.
+  ```
+  var num1 = "5";
+  var num2 = "13";
+  var totol = num1 + num2;
+  ```
   
