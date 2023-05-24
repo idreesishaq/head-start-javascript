@@ -80,4 +80,19 @@
   var num2 = "13";
   var totol = num1 + num2;
   ```
-  
+  ### Variable Naming Rules
+  There are some consideration we should keep in mind while we are creating a variable and naming it. 
+  - We cannot enclose a variable names in quotation marks. e.g. `var "myName" = "idrees";`
+  - A variable cannot ba a number or start with a number e.g. `var 1num = 15;`
+  - It cannot be any of JavaScript's reserved words or keywords e.g. `var final = "The last chance";`
+  - A variable cannot contain any spaces. e.g `var my name = "idrees";`
+  - A variable name can contain only letter, numbers, dollar signs and underscores. e.g `myName, Name1, my_name, myName$, and etc.`
+  - Although a variable name cannot be any of JavaScript's keywords but I contain keywords. e.g `userAlert, myVar, var1, etc.`
+  - Capital letter are fine but be careful **name** is not equal to **Name**. JavaScript is a case sensitive language. If you store a value "Gyrfalcon"in a variable named **bird**, and then ask JavaScript for the value assigned to **Bird**, you'll come up empty.
+  - It a preferred style convention to use **camelCase** in naming a variable in JavaScript, among JavaScript programming. 
+  Here is a list of style convention.
+  + **snake case** `my_first_name`
+  + **kebab case** `my-first-name`
+  + **camel case** `myFirstName`
+  + **pascal case** `MyFirstName`
+
